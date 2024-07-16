@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|c:\\users\\bz888zj\\onedrive - ey\\desktop\\foodappapi\\foodappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|solutionrelative:foodappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|c:\\users\\bz888zj\\onedrive - ey\\desktop\\foodappapi\\foodappapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|solutionrelative:foodappapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|c:\\users\\bz888zj\\onedrive - ey\\desktop\\foodappapi\\foodappapi\\models\\domain\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|solutionrelative:foodappapi\\models\\domain\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|c:\\users\\bz888zj\\onedrive - ey\\desktop\\foodappapi\\foodappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|solutionrelative:foodappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|c:\\users\\bz888zj\\onedrive - ey\\desktop\\foodappapi\\foodappapi\\models\\foodappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|solutionrelative:foodappapi\\models\\foodappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|c:\\users\\bz888zj\\onedrive - ey\\desktop\\foodappapi\\foodappapi\\foodappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0830BE4D-4C53-4D41-BEA5-2F805341508C}|FoodAppAPI\\FoodAppAPI.csproj|solutionrelative:foodappapi\\foodappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Models\\Domain\\Menu.cs",
+              "RelativeDocumentMoniker": "FoodAppAPI\\Models\\Domain\\Menu.cs",
+              "ToolTip": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Models\\Domain\\Menu.cs",
+              "RelativeToolTip": "FoodAppAPI\\Models\\Domain\\Menu.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:54:34.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "FoodAppAPI\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "FoodAppAPI\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwE8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:17:31.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FoodAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Program.cs",
+              "RelativeToolTip": "FoodAppAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:14:13.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Models\\FoodAppDbContext.cs",
+              "RelativeDocumentMoniker": "FoodAppAPI\\Models\\FoodAppDbContext.cs",
+              "ToolTip": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\Models\\FoodAppDbContext.cs",
+              "RelativeToolTip": "FoodAppAPI\\Models\\FoodAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:58:58.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\appsettings.json",
+              "RelativeToolTip": "FoodAppAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T16:54:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodAppAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\FoodAppAPI.csproj",
+              "RelativeDocumentMoniker": "FoodAppAPI\\FoodAppAPI.csproj",
+              "ToolTip": "C:\\Users\\BZ888ZJ\\OneDrive - EY\\Desktop\\FoodAppAPI\\FoodAppAPI\\FoodAppAPI.csproj",
+              "RelativeToolTip": "FoodAppAPI\\FoodAppAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T16:52:07.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
